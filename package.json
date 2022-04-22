@@ -1,7 +1,7 @@
 {
 	"name": "rollup-plugin-dist-gitkeep",
 	"version": "0.0.0",
-	"description": "Add a .gitkeep file in your distribution folder.",
+	"description": "A rollup plugin to add a .gitkeep file in your distribution folder.",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
